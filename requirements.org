@@ -34,7 +34,7 @@
     - [x] Change the colour scheme to something aesthetically pleasing
     - [x] Apply 1 CSS file to 3 gutenberg documents.
     - [x] Include all 3 gutenberg documents HTML and assets, with the CSS applied.
-    - [ ] document in your README what modifications you had to make
+    - [x] document in your README what modifications you had to make
       to the project gutenberg HTML files.
     - [x] Take 3 screenshots of firefox running all of your pages that
       demonstrates your theme.
@@ -87,10 +87,10 @@
 ** Restrictions
    - [x] You may use Python
    - [x] Must run in your VM (Firefox and Chromium)
-   - [ ] License your content properly (use a Creative Commons License
+   - [x] License your content properly (use a Creative Commons License
      like CC-BY-ND or CC-BY-SA)
      - Put your name on it!
-   - [ ] If you borrow CSS, always cite the author and the source
+   - [x] If you borrow CSS, always cite the author and the source
 
 ** Recommendations
 
